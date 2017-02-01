@@ -10,6 +10,7 @@ namespace ProjetIntegrationSMASH
     {
         static void Main(string[] args)
         {
+            //Yeah boiiiiii -Ludo
             // sup boys, lets kick some ass
         }
     }
