@@ -13,6 +13,11 @@ namespace ProjetIntegrationSMASH
             //Yeah boiiiiii -Ludo
             // sup boys, lets kick some ass
             // hola amigos
+
+
+
+
+            Console.WriteLine("Hey must be the money!");
         }
     }
 }
